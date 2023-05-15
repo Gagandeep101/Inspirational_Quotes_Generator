@@ -34,3 +34,5 @@ function quotes_from_api() {
 }
 
 quotes_from_api();
+
+gen_quotes_btn.addEventListener("click", quotes_from_api);
