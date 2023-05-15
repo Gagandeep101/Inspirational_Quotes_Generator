@@ -10,4 +10,5 @@
 <ol><br><br>
     
     
-![CPT2305151335-936x493](https://github.com/Gagandeep101/Inspirational_Quotes_Generator/assets/112372818/299a3aaf-17fc-4fd6-99d3-9ca9bb667340)
+![CPT2305151941-1278x501](https://github.com/Gagandeep101/Inspirational_Quotes_Generator/assets/112372818/461d92ab-7ea6-42ee-89de-0aface872134)
+
