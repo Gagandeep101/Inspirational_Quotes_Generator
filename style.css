@@ -30,3 +30,18 @@ body {
   border-radius: 20px;
 }
 
+.gen_quotes {
+  border: 5px solid transparent;
+  border-radius: 10px;
+  font-size: 30px;
+  margin-top: 20px;
+  padding: 20px;
+  background: #ff9966;
+}
+
+.gen_quotes:active {
+  background-color: #fd4548ab;
+  color: white;
+  text-shadow: 7px 7px 7px white;
+  border:  5px solid #ccc;
+}
