@@ -32,3 +32,5 @@ function quotes_from_api() {
         }
     })
 }
+
+quotes_from_api();
