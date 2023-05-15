@@ -4,3 +4,14 @@
 body {
   background-image: linear-gradient(to right, #ff9966, #ff5e62);
 }
+.scr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.heading {
+  font-size: 50px;
+  line-height: 70px;
+  text-align: center;
+}
