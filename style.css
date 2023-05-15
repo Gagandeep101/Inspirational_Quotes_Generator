@@ -1,4 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap");
 * {
+  font-family: "Bruno Ace SC", cursive;
   color: white;
 }
 body {
@@ -17,7 +19,6 @@ body {
 }
 .main_scr {
   background-color: #fd4548ab;
-  text-shadow: 7px 7px 7px white;
   border:  5px solid #ccc;
   padding: 20px;
   width: 400px;
